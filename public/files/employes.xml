@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<Employes>
+    <Employe>
+        <full_name>Федотова Нина Ярославовна</full_name>
+        <birthday>2001-06-18</birthday>
+        <department>Информационные технологии</department>
+        <position>Front-End Разработчик</position>
+        <rate_type>hours</rate_type>
+        <rate>270</rate>
+    </Employe>
+    <Employe>
+        <full_name>Бердинских Маргарита Тимофеевна</full_name>
+        <birthday>1990-02-17</birthday>
+        <department>Public relations</department>
+        <position>Head of the department</position>
+        <rate_type>hours</rate_type>
+        <rate>350</rate>
+    </Employe>
+    <Employe>
+        <full_name>Волощук Екатерина Юрьевна</full_name>
+        <birthday>2001-03-15</birthday>
+        <department>Экспорт</department>
+        <position>Менеджер</position>
+        <rate_type>month</rate_type>
+        <rate>28000</rate>
+    </Employe>
+    <Employe>
+        <full_name>Крылов Владимир Богданович</full_name>
+        <birthday>1996-02-06</birthday>
+        <department>Закупки</department>
+        <position>Менеджер</position>
+        <rate_type>month</rate_type>
+        <rate>28000</rate>
+    </Employe>
+    <Employe>
+        <full_name>Павлова Харитина Константиновна</full_name>
+        <birthday>1996-02-20</birthday>
+        <department>Финансы</department>
+        <position>Аналитик</position>
+        <rate_type>hours</rate_type>
+        <rate>230</rate>
+    </Employe>
+    <Employe>
+        <full_name>Шарипов Кирилл Сергеевич</full_name>
+        <birthday>1990-02-01</birthday>
+        <department>Бухгалтерия</department>
+        <position>Бухгалтер</position>
+        <rate_type>month</rate_type>
+        <rate>28000</rate>
+    </Employe>
+    <Employe>
+        <full_name>Яковлев Евгений Альбертович</full_name>
+        <birthday>2000-10-10</birthday>
+        <department>Развития</department>
+        <position>Технолог</position>
+        <rate_type>hours</rate_type>
+        <rate>240</rate>
+    </Employe>
+    <Employe>
+        <full_name>Холодкова Муза Андреевна</full_name>
+        <birthday>1997-02-22</birthday>
+        <department>Маркетинг</department>
+        <position>Маркетолог</position>
+        <rate_type>month</rate_type>
+        <rate>32000</rate>
+    </Employe>
+    <Employe>
+        <full_name>Михайлова Домна Евгеньевна</full_name>
+        <birthday>2002-02-21</birthday>
+        <department>Производство</department>
+        <position>Оператор МРА</position>
+        <rate_type>hours</rate_type>
+        <rate>240</rate>
+    </Employe>
+    <Employe>
+        <full_name>Добровольский Елизар Станиславович</full_name>
+        <birthday>1998-03-03</birthday>
+        <department>Продажи</department>
+        <position>Sales Efficiency Leader</position>
+        <rate_type>hours</rate_type>
+        <rate>330</rate>
+    </Employe>
+    <Employe>
+        <full_name>Назарова Лилиана Ильинична</full_name>
+        <birthday>1996-07-19</birthday>
+        <department>Исследования и разработки</department>
+        <position>Лаборант аналитической лаборатории</position>
+        <rate_type>hours</rate_type>
+        <rate>290</rate>
+    </Employe>
+    <Employe>
+        <full_name>Дементьева Викторина Максимовна</full_name>
+        <birthday>2000-05-11</birthday>
+        <department>Продажи</department>
+        <position>Demand Planning Leader Regions</position>
+        <rate_type>hours</rate_type>
+        <rate>270</rate>
+    </Employe>
+    <Employe>
+        <full_name>Зорина Клара Богдановна</full_name>
+        <birthday>1996-02-20</birthday>
+        <department>Исследования и разработки</department>
+        <position>Контроллер качества</position>
+        <rate_type>month</rate_type>
+        <rate>28000</rate>
+    </Employe>
+    <Employe>
+        <full_name>Вахрушева Ксения Юрьевна</full_name>
+        <birthday>1975-05-13</birthday>
+        <department>Производство</department>
+        <position>Оператор</position>
+        <rate_type>hours</rate_type>
+        <rate>240</rate>
+    </Employe>
+    <Employe>
+        <full_name>Орловский Сократ Богданович</full_name>
+        <birthday>1999-11-20</birthday>
+        <department>Информационные технологии</department>
+        <position>IT Project Manager</position>
+        <rate_type>hours</rate_type>
+        <rate>340</rate>
+    </Employe>
+    <Employe>
+        <full_name>Егоров Валентин Антонович</full_name>
+        <birthday>1977-11-16</birthday>
+        <department>Производство</department>
+        <position>Водитель погрузочной техники</position>
+        <rate_type>hours</rate_type>
+        <rate>260</rate>
+    </Employe>
+    <Employe>
+        <full_name>Набадчикова Альбина Емельяновна</full_name>
+        <birthday>1994-04-08</birthday>
+        <department>Маркетинг</department>
+        <position>Маркетолог</position>
+        <rate_type>month</rate_type>
+        <rate>32000</rate>
+    </Employe>
+    <Employe>
+        <full_name>Белозёров Михаил Валентинович</full_name>
+        <birthday>1982-04-11</birthday>
+        <department>Производство</department>
+        <position>Техник-электромеханик</position>
+        <rate_type>month</rate_type>
+        <rate>30000</rate>
+    </Employe>
+    <Employe>
+        <full_name>Десяткова Нина Михаиловна</full_name>
+        <birthday>1979-04-16</birthday>
+        <department>Продажи</department>
+        <position>Менеджер по продаже</position>
+        <rate_type>hours</rate_type>
+        <rate>230</rate>
+    </Employe>
+    <Employe>
+        <full_name>Усачёва Инесса Ярославовна</full_name>
+        <birthday>1996-02-20</birthday>
+        <department>Продажи</department>
+        <position>Торговый представитель</position>
+        <rate_type>hours</rate_type>
+        <rate>250</rate>
+    </Employe>
+    <Employe>
+        <full_name>Швец Алиса Станиславовна</full_name>
+        <birthday>2000-01-09</birthday>
+        <department>Экспорт</department>
+        <position>Менеджер</position>
+        <rate_type>month</rate_type>
+        <rate>28000</rate>
+    </Employe>
+    <Employe>
+        <full_name>Даров Ульян Денисович</full_name>
+        <birthday>1971-01-18</birthday>
+        <department>Финансы</department>
+        <position>Head of the department</position>
+        <rate_type>hours</rate_type>
+        <rate>330</rate>
+    </Employe>
+</Employes>
